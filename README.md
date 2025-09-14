@@ -17,6 +17,16 @@ Academic & professional performance (lower focus, procrastination)
 
 This project aims to analyze and present these impacts through structured data analysis and visual reports.
 
+🔑 Key Insights
+
+Increased daily phone usage hours correlates with higher stress and lower sleep quality.
+
+Teenagers are more vulnerable to smartphone addiction compared to adults.
+
+Moderate and mindful use of smartphones leads to better academic performance and mental health.
+
+Balance between online and offline activities improves well-being.
+
 📊 Features
 
 Data preprocessing and cleaning
