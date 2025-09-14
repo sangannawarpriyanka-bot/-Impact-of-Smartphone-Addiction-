@@ -4,13 +4,13 @@
 
 ---
 
-📌 Overview :
+## 📌 Overview :
 
   This project explores the impact of smartphone addiction on individuals, focusing on areas such as lifestyle, productivity, academic performance, social behavior, and mental well-being. The goal is to analyze how excessive smartphone usage affects daily life and provide insights through data analysis and visualization.
 
 ---
 
-🎯 Objectives :
+## 🎯 Objectives :
 
 * Understand patterns of smartphone usage.
 
@@ -33,7 +33,14 @@
 
 ---
 
-📊 Key Features :
+## 📊 Visualization
+
+Here is an chart showing smartphone usage purpose distribution across daily hours :
+
+<img width="424" height="221" alt="Phone uses  purpose distribution across daily hours" src="https://github.com/user-attachments/assets/76e849d0-c80c-4853-895d-ad72c496528a" />
+)
+
+## 📊 Key Features :
 
 * Data Cleaning & Preprocessing: Handling missing values, encoding, and transformations.
 
@@ -47,7 +54,7 @@
 
 ---
 
-🛠 Tech Stack :
+## 🛠 Tech Stack :
 
 * Programming: Python
 
@@ -59,7 +66,7 @@
 
 ---
 
-📈 Insights (Examples) :
+## 📈 Insights (Examples) :
 
 * Students spending more than 6 hours daily on smartphones showed reduced academic performance.
 
@@ -69,7 +76,7 @@
 
 ---
 
-📝 Future Scope :
+## 📝 Future Scope :
 
 * Collect larger and more diverse datasets.
 
