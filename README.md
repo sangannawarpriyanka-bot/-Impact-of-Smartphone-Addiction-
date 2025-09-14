@@ -1,4 +1,5 @@
 # -Impact-of-Smartphone-Addiction-
+![Imageview](https://static.vecteezy.com/system/resources/previews/005/246/645/non_2x/smartphone-phone-gadget-addiction-on-social-media-online-internet-illustration-free-vector.jpg)
 📱 Impact of Smartphone Addiction
 
 This project explores the impact of smartphone addiction on daily lifestyle, productivity, and overall well-being. It includes data analysis, visualizations, and insights on how excessive smartphone usage affects mental health, academic/work performance, and social interactions.
