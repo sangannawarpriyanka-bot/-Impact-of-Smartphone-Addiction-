@@ -24,13 +24,12 @@
 
 🗂 Project Structure :
 
-Impact-of-Smartphone-Addiction/
 
-│── data/                # Dataset(s) used for analysis  
-│── notebooks/           # Jupyter notebooks with data cleaning & analysis  
-│── visuals/             # Graphs, plots, and dashboard screenshots  
-│── scripts/             # Python scripts for data processing and visualization  
-│── README.md            # Project documentation  
+│── data/            ---  # Dataset(s) used for analysis  
+│── notebooks/       ---  # Jupyter notebooks with data cleaning & analysis  
+│── visuals/         ---  # Graphs, plots, and dashboard screenshots  
+│── scripts/         ---  # Python scripts for data processing and visualization  
+│── README.md        ---  # Project documentation  
 
 ---
 
