@@ -23,6 +23,7 @@ This project explores the impact of smartphone addiction on individuals, focusin
 ---
 
 🗂 Project Structure :
+
 Impact-of-Smartphone-Addiction/
 │── data/                # Dataset(s) used for analysis  
 │── notebooks/           # Jupyter notebooks with data cleaning & analysis  
@@ -34,15 +35,15 @@ Impact-of-Smartphone-Addiction/
 
 📊 Key Features :
 
-Data Cleaning & Preprocessing: Handling missing values, encoding, and transformations.
+* Data Cleaning & Preprocessing: Handling missing values, encoding, and transformations.
 
-Exploratory Data Analysis (EDA): Identifying trends in smartphone usage.
+* Exploratory Data Analysis (EDA): Identifying trends in smartphone usage.
 
-Visualization: Charts and plots showing impact on lifestyle & health.
+* Visualization: Charts and plots showing impact on lifestyle & health.
 
-Dashboard (Optional): Interactive dashboard for insights.
+* Dashboard (Optional): Interactive dashboard for insights.
 
-Results & Insights: Summary of findings and recommendations.
+* Results & Insights: Summary of findings and recommendations.
 
 ---
 
