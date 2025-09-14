@@ -6,7 +6,7 @@
 
 📌 Overview :
 
-This project explores the impact of smartphone addiction on individuals, focusing on areas such as lifestyle, productivity, academic performance, social behavior, and mental well-being. The goal is to analyze how excessive smartphone usage affects daily life and provide insights through data analysis and visualization.
+  This project explores the impact of smartphone addiction on individuals, focusing on areas such as lifestyle, productivity, academic performance, social behavior, and mental well-being. The goal is to analyze how excessive smartphone usage affects daily life and provide insights through data analysis and visualization.
 
 ---
 
@@ -25,6 +25,7 @@ This project explores the impact of smartphone addiction on individuals, focusin
 🗂 Project Structure :
 
 Impact-of-Smartphone-Addiction/
+
 │── data/                # Dataset(s) used for analysis  
 │── notebooks/           # Jupyter notebooks with data cleaning & analysis  
 │── visuals/             # Graphs, plots, and dashboard screenshots  
