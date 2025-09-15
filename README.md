@@ -41,16 +41,16 @@
  ---
   
 * **smartphone usage purpose distribution across daily hours :**
-<img width="800" height="400" alt="Phone uses  purpose distribution across daily hours" src="https://github.com/user-attachments/assets/76e849d0-c80c-4853-895d-ad72c496528a" />
+<img width="700" height="300" alt="Phone uses  purpose distribution across daily hours" src="https://github.com/user-attachments/assets/76e849d0-c80c-4853-895d-ad72c496528a" />
 
 * **Dipression, Self Esteem, Family Comm. by Age :**
-<img width="800" height="400" alt="Avg dipression, Self Esteem Family Comm  by Age" src="https://github.com/user-attachments/assets/5bed6570-58c0-43b1-93db-f3d0c46e9d89" />
+<img width="700" height="300" alt="Avg dipression, Self Esteem Family Comm  by Age" src="https://github.com/user-attachments/assets/5bed6570-58c0-43b1-93db-f3d0c46e9d89" />
 
 * **Daily Phone usage vs Addictional level :**
-<img width="800" height="400" alt="Daily Phone usage vs  Addictional level" src="https://github.com/user-attachments/assets/3b93308f-03c1-4939-814d-5e853f47eca2" />
+<img width="700" height="300" alt="Daily Phone usage vs  Addictional level" src="https://github.com/user-attachments/assets/3b93308f-03c1-4939-814d-5e853f47eca2" />
   
 * **Here is an chart showing Features Importance :**
-<img width="800" height="400" alt="Features importance" src="https://github.com/user-attachments/assets/f4b1101c-f1fc-40eb-9623-9379b44a3dfe" />
+<img width="700" height="300" alt="Features importance" src="https://github.com/user-attachments/assets/f4b1101c-f1fc-40eb-9623-9379b44a3dfe" />
   
 ---
 
